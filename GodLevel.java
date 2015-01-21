@@ -25,6 +25,7 @@ public class GodLevel{
      * 0 = rock
      * 1 = berry
      */
+    //new changes whee
     e = new ArrayList();
     berries = new ArrayList();
     rocks = new ArrayList();
